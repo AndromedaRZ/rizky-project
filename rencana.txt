@@ -1,4 +1,4 @@
 Rencana untuk repository ini kedepannya
 - tambahkan file baru
 - coba git commit
-- coba buat branch baru
+- coba upload file
